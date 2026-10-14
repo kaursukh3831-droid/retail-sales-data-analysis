@@ -1,5 +1,4 @@
-# retail-sales-data-analysis
-Retail Sales Data Analysis using Python
+
 # Retail Sales Data Analysis Using Python
 
 ## Project Overview
